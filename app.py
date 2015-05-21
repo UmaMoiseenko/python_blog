@@ -6,7 +6,7 @@ import urllib
 
 app = Flask(__name__)
 app.secret_key = "not a good secret"
-app.database = "hw_blog.db"
+app.database = "blog.db"
 app.config['DEBUG'] = True
 
 

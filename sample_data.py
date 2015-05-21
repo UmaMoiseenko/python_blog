@@ -1,6 +1,6 @@
 import sqlite3
 
-with sqlite3.connect("hw_blog.db") as connection:
+with sqlite3.connect("blog.db") as connection:
 	c = connection.cursor()
 	c.execute("""DROP TABLE IF EXISTS users""")
 	c.execute("""DROP TABLE IF EXISTS posts""")
