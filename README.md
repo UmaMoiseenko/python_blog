@@ -7,6 +7,9 @@ If category is removed, blogs from that catgegory are updated as well.
 
 Home page displays all posts are displayed in reversed chronological order, each post has a permalink. Posts also can be sorted by category.
 
+Test Users Credentials:
+UN: user01  PW: pass01
+UN: user02  PW: pass02
 
 ## Packages/tools
 
